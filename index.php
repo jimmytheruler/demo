@@ -4,4 +4,6 @@
     echo "new one";
 
     echo "weird";
+
+    echo "for new branch";
 ?>
