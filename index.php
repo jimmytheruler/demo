@@ -6,4 +6,6 @@
     echo "weird";
 
     echo "for new branch";
+
+    echo "somethin new";
 ?>
